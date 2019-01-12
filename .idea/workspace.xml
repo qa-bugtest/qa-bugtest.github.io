@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84f6d3b4-453b-40b4-bf0c-0f32f86fa416" name="Default Changelist" comment="" />
+    <list default="true" id="84f6d3b4-453b-40b4-bf0c-0f32f86fa416" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Point-webtest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,21 +20,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="html" value="3" />
           <entry key="js" value="1" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="1" />
           <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="html" value="78" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="78" />
           <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
@@ -40,7 +48,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Point-webtest/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
@@ -53,6 +61,27 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Point-webtest/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4570">
+              <caret line="435" column="19" lean-forward="true" selection-start-line="435" selection-start-column="19" selection-end-line="435" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Point-webtest/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4729" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Point-webtest/contacts.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -62,6 +91,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Point-webtest/js/main.js" />
+        <option value="$PROJECT_DIR$/Point-webtest/index.html" />
       </list>
     </option>
   </component>
@@ -99,12 +129,6 @@
               <item name="pointschool.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Point-webtest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pointschool.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pointschool.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Point-webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -138,15 +162,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547288963016</updated>
-      <workItem from="1547288965219" duration="1852000" />
+      <workItem from="1547288965219" duration="2279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1852000" />
+    <option name="totallyTimeSpent" value="2279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="42" width="1346" height="688" extended-state="1" />
+    <frame x="41" y="42" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
@@ -176,6 +200,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Point-webtest/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Point-webtest/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
@@ -185,6 +212,21 @@
             <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/contacts.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4570">
+          <caret line="435" column="19" lean-forward="true" selection-start-line="435" selection-start-column="19" selection-end-line="435" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4729" />
       </provider>
     </entry>
   </component>
