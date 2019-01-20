@@ -4,7 +4,7 @@ body{
 	font-family: 'Museo Sans Cyrl', Arial, sans-serif;
 	font-size: 17px;
 	font-weight: 100;
-	color:#545454;
+	color:#545454; /*основной текст*/
 }
 h1,h2,h3,h4,h5,h6{
 	font-weight: 900;
@@ -33,7 +33,7 @@ a, a:hover, a:active{
 .shadow{
 	-webkit-box-shadow: 2px 5px 5px 1px rgba(0,0,0,0.33);
 	-moz-box-shadow: 2px 5px 5px 1px rgba(0,0,0,0.33);
-	box-shadow: 2px 5px 5px 1px rgba(0,0,0,0.33);
+	box-shadow: 2px 5px 5px 1px rgba(0,0,0,0.33); /*тени*/
 }
 .container {
     padding:0;
@@ -54,8 +54,8 @@ a, a:hover, a:active{
 	height: 100vh;
 }
 #header{
-	background: rgba(0, 0, 0, 0.25);
-	color:#fff;
+	background: rgba(47, 139, 177, 0.25); /*шапка верха*/
+	color:#fff; /*телефоны в шапке*/
 }
 .logo{
 	float: left;
@@ -71,7 +71,7 @@ a, a:hover, a:active{
 	padding-top: 28px;
 }
 .menu__link{
-	font-size: 10px;
+	font-size: 12px;
 	text-transform: uppercase;
 	color: #fff;
 	line-height: 17px;
@@ -286,14 +286,14 @@ a, a:hover, a:active{
 	font-weight: 900;
 	text-transform: uppercase;
 }
-.point{	
+.point{
 	position: absolute;
     border-radius: 16px;
     border: 1px solid #fff;
     border-style: dashed;
     font-size: 17px;
     width: 33px;
-    background: #233d53;
+    background: #23aae2;
     height: 33px;
     left: 48%;
 }
@@ -333,7 +333,7 @@ a, a:hover, a:active{
 }
 .show__btn:hover{
 	background: #fff;
-	color: #273f53;
+	color: #23aae2;
 }
 
 
@@ -464,7 +464,7 @@ a, a:hover, a:active{
 }
 
 .comment__text {
-	color: #363636;
+	color: #363636; /*текст в отзывах*/
 	font-size: 1.273rem;
 	font-style: italic;
 	font-weight: 100;
@@ -508,7 +508,7 @@ a, a:hover, a:active{
 	display: block;
 }
 .slick-dots li.slick-active button {
-    background-color: #23aae2;
+    background-color: #23aae2; /*точки прокрутки отзывов*/
     border: none;
     width: 19px;
     height: 19px;
@@ -565,7 +565,7 @@ a, a:hover, a:active{
 	background: url(../img/background-3.png) repeat;
 }
 .question{
-	background:  #11b2f5;
+	background:  #11b2f5;/*блок вопросов*/
 	text-align: center;
 	line-height: 2em;
 }
@@ -603,7 +603,7 @@ a, a:hover, a:active{
     width: 100%;
     font-size: 13px;
     /*text-transform: uppercase; */
-    background: #30c2ff;
+    background: #30c2ff; /*поля формы*/
 }
 
 .form__input:focus {
@@ -634,7 +634,7 @@ a, a:hover, a:active{
 	color: #11b2f5;
 }
 .question__point{
-	background:  #11b2f5;
+	background:  #11b2f5; /*стрелка вопросов*/
 	position: absolute;
     top: 100%;
 }
@@ -652,7 +652,7 @@ a, a:hover, a:active{
 
 
 #main-footer{
-	background: #23aae2;
+	background: #23aae2; /*главная нижний фон*/
 	color:#fff;
 	--webkit-box-shadow: 0px -21px 107px 0px rgba(0,0,0,0.1);
 	-moz-box-shadow: 0px -21px 107px 0px rgba(0,0,0,0.1);
@@ -732,7 +732,7 @@ a, a:hover, a:active{
 	margin-top: 50px;
 }
 .contacts-item{
-	float: left;    
+	float: left;
 	margin-bottom: 40px;
 	width:100%;
 }
@@ -748,6 +748,7 @@ a, a:hover, a:active{
 .contacts-item__title{
 	font-size:18px;
 	line-height: 28px;
+	text-align: left;
 }
 .contacts-item__text{
 	font-size:16px;
@@ -808,7 +809,7 @@ a, a:hover, a:active{
 	margin-bottom: 60px;
 }
 .image-item{
-	float: left; 
+	float: left;
 }
 .image-first{
 	margin-bottom: 90px;
@@ -994,5 +995,66 @@ a, a:hover, a:active{
 	padding: 30px;
 	margin-top: -20px;
 }
+.form2{
+    margin-top:70px;
+    margin-bottom: 65px;
+}
+.form__item2{
+    padding-bottom: 9px;
+}
+.form__input2 {
+    border: 0;
+    border-radius: 3px;
+    border: 1px solid #fff; /*обводка рамки*/
+    display: block;
+    border-radius: 3px;
+    padding: 15px 15px 12px 10px;
+    width: 45%;
+    font-size: 12px;
+    /*text-transform: uppercase; */
+    background: #d3e9ee/*30c2ff*/; /*поля формы*/
+}
 
+.form__input2:focus {
+    box-shadow: 0 8px 8px rgba(0,0,0,0.23); /*тень бокса*/
+    cursor: pointer;
+}
+
+.form__btn2{
+    text-transform: uppercase;
+    border: 1px solid #2a3e55; /*рамка кнопки*/
+    margin-top: 11px;
+    border-radius: 3px; /*скругление рамки кнопки*/
+    font-size: 10px;
+	color: #ffffff; /*цвет текста на кнопке*/
+    padding: 23px 36px;
+    font-weight: 600;
+    width: 40%;
+    background: #23aae2;
+}
+.form__btn2:hover{
+    background: #fff; /*цвет при наведении на кнопку*/
+    color: #11b2f5;} /*цвет текста при наведении на кнопку*/
+
+.btn2{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+.text-item2{
+	float: left;
+	font-size: 16px;
+	line-height: 23px;
+	font-style: italic;
+	text-align: justify
+}
+.text-about{
+	text-align: justify;
+	font-size: 17px;
+	line-height: 23px;
+	color: #ffffff;
+	font-weight: 400;
+}
 /* ---- Style for JS form End---- */

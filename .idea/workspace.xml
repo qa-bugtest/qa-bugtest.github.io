@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84f6d3b4-453b-40b4-bf0c-0f32f86fa416" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Point-webtest/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point-webtest/proba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point-webtest/testing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/img/back-city.png" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/img/back-city.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/img/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/img/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/img/person.png" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/img/person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/img/person3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/img/person3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/img/person5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/img/person5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Point-webtest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/move.html" beforeDir="false" afterPath="$PROJECT_DIR$/Point-webtest/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point-webtest/success.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,79 +26,103 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="315463037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.161" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
-          <entry key="js" value="1" />
+          <entry key="css" value="10" />
+          <entry key="html" value="17" />
+          <entry key="js" value="6" />
+          <entry key="php" value="4" />
           <entry key="png" value="1" />
+          <entry key="rnc" value="1" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="CSS" value="10" />
+          <entry key="HTML" value="17" />
           <entry key="Image" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="6" />
+          <entry key="PHP" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="78" />
-          <entry key="js" value="2" />
+          <entry key="css" value="630" />
+          <entry key="html" value="2979" />
+          <entry key="js" value="295" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="78" />
-          <entry key="JavaScript" value="2" />
+          <entry key="CSS" value="630" />
+          <entry key="HTML" value="2979" />
+          <entry key="JavaScript" value="295" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Point-webtest/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="81" column="191" selection-start-line="81" selection-start-column="191" selection-end-line="81" selection-end-column="191" />
-              <folding>
-                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Point-webtest/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4570">
-              <caret line="435" column="19" lean-forward="true" selection-start-line="435" selection-start-column="19" selection-end-line="435" selection-end-column="19" />
+            <state relative-caret-position="170">
+              <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Point-webtest/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4729" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Point-webtest/contacts.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>js-form box-modal</find>
+      <find>60</find>
+      <find>font</find>
+      <find>+7(495)</find>
+      <find>495</find>
+      <find>text-about</find>
+      <find>suc</find>
+      <find>js-form</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,7 +130,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Point-webtest/404.html" />
+        <option value="$PROJECT_DIR$/Point-webtest/task.php" />
+        <option value="$PROJECT_DIR$/Point-webtest/js/task.js" />
+        <option value="$PROJECT_DIR$/Point-webtest/index.php" />
         <option value="$PROJECT_DIR$/Point-webtest/js/main.js" />
+        <option value="$PROJECT_DIR$/Point-webtest/proba.html" />
+        <option value="$PROJECT_DIR$/Point-webtest/move.html" />
+        <option value="$PROJECT_DIR$/Point-webtest/js/data.js" />
+        <option value="$PROJECT_DIR$/Point-webtest/css/main.css" />
+        <option value="$PROJECT_DIR$/Point-webtest/testing.html" />
+        <option value="$PROJECT_DIR$/Point-webtest/about.html" />
+        <option value="$PROJECT_DIR$/Point-webtest/task.html" />
         <option value="$PROJECT_DIR$/Point-webtest/index.html" />
       </list>
     </option>
@@ -112,11 +163,32 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidPropertyValue</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,16 +201,23 @@
               <item name="pointschool.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="Point-webtest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pointschool.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pointschool.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Point-webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,36 +241,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547288963016</updated>
-      <workItem from="1547288965219" duration="2279000" />
+      <workItem from="1547288965219" duration="12304000" />
+      <workItem from="1547749846223" duration="3713000" />
+      <workItem from="1547889894903" duration="34708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2279000" />
+    <option name="totallyTimeSpent" value="50725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="42" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19362363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32970452" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25738725" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32970452" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -203,10 +306,90 @@
     <entry file="file://$PROJECT_DIR$/Point-webtest/img/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16925" column="12" selection-start-line="16925" selection-start-column="12" selection-end-line="16925" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-745" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/success.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/css/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1970">
+          <caret line="4" column="25981" lean-forward="true" selection-start-line="4" selection-start-column="25981" selection-end-line="4" selection-end-column="25981" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/proba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/testing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3009">
+          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="180" column="32" selection-start-line="180" selection-start-column="32" selection-end-line="180" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Point-webtest/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="81" column="191" selection-start-line="81" selection-start-column="191" selection-end-line="81" selection-end-column="191" />
+        <state relative-caret-position="343">
+          <caret line="145" column="23" lean-forward="true" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
@@ -214,19 +397,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Point-webtest/contacts.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Point-webtest/index.html">
+    <entry file="file://$PROJECT_DIR$/Point-webtest/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4570">
-          <caret line="435" column="19" lean-forward="true" selection-start-line="435" selection-start-column="19" selection-end-line="435" selection-end-column="19" />
+        <state relative-caret-position="244">
+          <caret line="1050" column="23" selection-start-line="1050" selection-start-column="23" selection-end-line="1050" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Point-webtest/about.html">
+    <entry file="file://$PROJECT_DIR$/Point-webtest/task.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4729" />
+        <state relative-caret-position="1921">
+          <caret line="128" column="65" selection-start-line="128" selection-start-column="65" selection-end-line="128" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point-webtest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
+        </state>
       </provider>
     </entry>
   </component>
