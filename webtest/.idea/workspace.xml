@@ -212,13 +212,16 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Compass/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Compass/index.html">
+      <method v="2" />
+    </configuration>
     <configuration name="Compass" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHPUnit.Compass" />
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="PHPUnit.Compass" />
     </list>
     <recent_temporary>
       <list>
